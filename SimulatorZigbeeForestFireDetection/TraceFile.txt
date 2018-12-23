@@ -1,0 +1,3 @@
+Avrage spend Energy 0.08532825890824824
+Max. spend Energy 0.412238376008645
+dutyCycle 0.2576243980738363
